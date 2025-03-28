@@ -1,0 +1,2 @@
+# BekdosAssignmentADS
+Problems Solving
