@@ -13,7 +13,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in); // creates scanner object
         int[] arr = new int[5]; // array to store 5 numbers
 
-        // asks user to write 5 numbers
+        /* asks user to write 5 numbers */
         System.out.println("Enter 5 numbers:");
         for (int i = 0; i < 5; i++) {
             arr[i] = scanner.nextInt(); // read numbers into the array
